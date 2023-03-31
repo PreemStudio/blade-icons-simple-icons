@@ -1,11 +1,14 @@
 {
     "name": "preemstudio/blade-icons-simple-icons",
-    "description": "A package to easily make use of Simple Icons in your Laravel Blade views.",
+    "description": "A package to easily make use of Simple Icons with Laravel Blade Icons.",
     "license": "MIT",
     "keywords": [
         "PreemStudio",
         "laravel",
-        "package_slug"
+        "blade",
+        "blade-icons",
+        "blade-icons-simple-icons",
+        "simple-icons"
     ],
     "authors": [
         {
